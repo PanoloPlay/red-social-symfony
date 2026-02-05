@@ -1,1 +1,2 @@
-# Proyecto-red-social-en-PHP
+# red social symfony
+v0.1
